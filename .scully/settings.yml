@@ -1,0 +1,11 @@
+identifier: l6u8aeifm8o638o2
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: D:\Uni\Learning\angular\my-blog
+distFolder: dist/my-blog
+outDir: D:\Uni\Learning\angular\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
